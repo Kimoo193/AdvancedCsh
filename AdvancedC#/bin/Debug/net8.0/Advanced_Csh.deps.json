@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Advanced_Csh/1.0.0": {
+        "runtime": {
+          "Advanced_Csh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced_Csh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\OOP_Project.exe
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\OOP_Project.deps.json
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\OOP_Project.runtimeconfig.json
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\OOP_Project.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\OOP_Project.pdb
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.AssemblyInfoInputs.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.AssemblyInfo.cs
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\refint\OOP_Project.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.pdb
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\OOP_Project.genruntimeconfig.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\ref\OOP_Project.dll

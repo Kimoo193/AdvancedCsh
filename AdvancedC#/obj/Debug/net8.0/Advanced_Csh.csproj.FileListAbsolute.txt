@@ -1,0 +1,14 @@
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.AssemblyInfoInputs.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.AssemblyInfo.cs
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.csproj.CoreCompileInputs.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\Advanced_Csh.exe
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\Advanced_Csh.deps.json
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\Advanced_Csh.runtimeconfig.json
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\Advanced_Csh.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0\Advanced_Csh.pdb
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\refint\Advanced_Csh.dll
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.pdb
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\Advanced_Csh.genruntimeconfig.cache
+C:\Users\kimoo\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0\ref\Advanced_Csh.dll
